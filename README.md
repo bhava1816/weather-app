@@ -78,12 +78,4 @@ Bhava Narayana Chukka
 🌐 GitHub: bhava1816
 
 
----
 
-✅ Next Steps for You:  
-1. Copy this content into a new file: `README.md`.  
-2. Push it to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Added README with project details"
-   git push origin main
