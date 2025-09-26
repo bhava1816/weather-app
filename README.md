@@ -71,7 +71,8 @@ The development process, debugging, and improvements were documented in ChatGPT 
 
 👨‍💻 Author
 
-Bhava Narayana chukka
+Bhava Narayana Chukka
+
 📧 Email: bhavanarayanachukka@gmail.com
 
 🌐 GitHub: bhava1816
